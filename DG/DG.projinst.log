@@ -1,0 +1,7 @@
+Plugin v0.0.1 running on KiCad 10.0.3 and Python 3.11.5 (main, Jan 23 2026, 07:39:48) [MSC v.1944 64 bit (AMD64)] on win32.
+Config file C:\Users\uki\Documents\KiCad\10.0\projects\DG\DG.projinst.json not found. Creating new one.
+Valid Board found for C:\Users\uki\Documents\KiCad\10.0\projects\DG\DG.kicad_sch
+0 sheet instances entries in C:\Users\uki\Documents\KiCad\10.0\projects\DG\DG.kicad_sch
+Root item: <wx._dataview.TreeListItem object at 0x000001CC346A9630>
+No Valid Child board for 
+Instance is a dead branch: 

@@ -1,0 +1,620 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "1363aaf5-2c06-482e-8ef9-b92852a37664")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 107.95 110.49) (xy 113.03 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15f291fc-a404-4cac-a98a-362cbf4c4201")
+	)
+	(wire
+		(pts
+			(xy 106.68 90.17) (xy 113.03 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1accedb6-3e4d-4102-83ef-4749cb441cc3")
+	)
+	(wire
+		(pts
+			(xy 125.73 63.5) (xy 131.445 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cc9f538-8322-461a-9853-e10e31fb046a")
+	)
+	(wire
+		(pts
+			(xy 125.73 78.74) (xy 125.73 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37da8a5d-1a58-4f5f-bc58-7f6bafb7c169")
+	)
+	(wire
+		(pts
+			(xy 161.29 78.74) (xy 161.29 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44c008f5-4ace-4cfa-b6af-9ad1f0874b6e")
+	)
+	(wire
+		(pts
+			(xy 154.94 67.31) (xy 163.83 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e4d8031-c02e-44af-b972-96db561dfeaa")
+	)
+	(wire
+		(pts
+			(xy 171.45 57.15) (xy 171.45 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75c869bc-911e-445a-bb2d-64d7dac7edc6")
+	)
+	(wire
+		(pts
+			(xy 107.95 113.03) (xy 113.03 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a31240d-a689-4fc8-b8fd-77f3bc02cd1b")
+	)
+	(wire
+		(pts
+			(xy 163.83 67.31) (xy 163.83 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a806cc38-429e-41a9-8172-9e5522f3eaa5")
+	)
+	(wire
+		(pts
+			(xy 106.68 93.98) (xy 113.03 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a870ec0d-14f7-4904-b887-2e81b8e826c9")
+	)
+	(wire
+		(pts
+			(xy 106.68 96.52) (xy 113.03 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab114d22-5570-4d25-bbaa-4e51be256c93")
+	)
+	(wire
+		(pts
+			(xy 154.94 59.69) (xy 168.91 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae1902a0-fd20-452e-8a66-55e8d980026d")
+	)
+	(wire
+		(pts
+			(xy 154.94 57.15) (xy 171.45 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5c22953-26c7-4056-a09d-953be7f3e272")
+	)
+	(wire
+		(pts
+			(xy 168.91 59.69) (xy 168.91 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d19eae7d-5d2d-497e-aced-8d65402d7e79")
+	)
+	(wire
+		(pts
+			(xy 161.29 69.85) (xy 154.94 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e543c621-93a7-4b60-b975-65cdb432125f")
+	)
+	(wire
+		(pts
+			(xy 128.27 73.66) (xy 128.27 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb4ff524-f9da-49e9-a136-22afbdf731d6")
+	)
+	(wire
+		(pts
+			(xy 106.68 87.63) (xy 113.03 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee31f15b-022a-4b15-9bef-4005e868f56d")
+	)
+	(wire
+		(pts
+			(xy 131.445 73.66) (xy 128.27 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7266468-a0a8-4f0e-a7f3-e00cc4086b2c")
+	)
+	(sheet
+		(at 113.03 78.74)
+		(size 62.23 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3766b75b-9e34-4dca-a522-a6aade584e4f")
+		(property "Sheetname" "Bunk_DC"
+			(at 113.03 78.0284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Bunk_DC.kicad_sch"
+			(at 113.03 118.6946 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT_DC_HOT_P" input
+			(at 125.73 78.74 90)
+			(uuid "277d5da3-8534-4789-9550-d1c05ce41db4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_DC_HOT_M" input
+			(at 128.27 78.74 90)
+			(uuid "cb9f8939-84ba-426c-ab10-1813da8846b9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_DC_HOT_P" input
+			(at 113.03 110.49 180)
+			(uuid "db8ac48f-f185-4854-a86b-38fa10bbd4ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_DC_HOT_M" input
+			(at 113.03 113.03 180)
+			(uuid "9507e52f-3c8e-494c-b1f4-e7f2929d2bcb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_DC_V12_COLD_M" input
+			(at 168.91 78.74 90)
+			(uuid "2d2ce546-dbdd-4abb-8b1b-fc788d3d67d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_DC_V12_COLD_P" input
+			(at 171.45 78.74 90)
+			(uuid "1f65d864-e532-4544-a8dd-0b40e770078e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_DC_V12_HOT_M" input
+			(at 161.29 78.74 90)
+			(uuid "2389446c-3303-4962-a12a-2ba00f7e8fcf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_DC_V12_HOT_P" input
+			(at 163.83 78.74 90)
+			(uuid "0fb1635e-ecdb-4ca3-8d57-75284b9b48b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_1_AC1" input
+			(at 113.03 96.52 180)
+			(uuid "c777a6c0-d775-4bb5-9a53-cbb81dcc775d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_1_AC2" input
+			(at 113.03 93.98 180)
+			(uuid "10deb435-556e-4090-8909-2089150ccf76")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_2_AC1" input
+			(at 113.03 90.17 180)
+			(uuid "cd557281-1733-417b-a603-9ba1fe699113")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_2_AC2" input
+			(at 113.03 87.63 180)
+			(uuid "2cf5251e-655b-472a-900d-4d9c0707d1c2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Tesla"
+				(path "/1363aaf5-2c06-482e-8ef9-b92852a37664"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 73.025 83.82)
+		(size 33.655 15.875)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "57b4003a-37c4-4114-870b-da236f69b033")
+		(property "Sheetname" "Filtr"
+			(at 73.025 83.1084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Filtr-.kicad_sch"
+			(at 73.025 100.2796 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT_1_AC1" input
+			(at 106.68 96.52 0)
+			(uuid "b2083cc8-09e5-4377-a14b-45b1ed61f67a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_1_AC2" input
+			(at 106.68 93.98 0)
+			(uuid "7273c308-9c6b-4a41-96d8-bf0e0c2e1349")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_2_AC1" input
+			(at 106.68 90.17 0)
+			(uuid "b5f9e39f-5464-4a03-8d4e-307df6dfe59b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_2_AC2" input
+			(at 106.68 87.63 0)
+			(uuid "2298756d-4ddd-4864-977b-05ae2a123c79")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Tesla"
+				(path "/1363aaf5-2c06-482e-8ef9-b92852a37664"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 69.215 104.14)
+		(size 38.735 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9f093abf-f2eb-463d-b022-adbd4e49d362")
+		(property "Sheetname" "Power"
+			(at 69.215 103.4284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 69.215 118.6946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN_DC_HOT_M" input
+			(at 107.95 113.03 0)
+			(uuid "5cde0eb4-25c7-4962-8a21-f1eab4afe30d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN_DC_HOT_P" input
+			(at 107.95 110.49 0)
+			(uuid "56ba7b4b-73a5-4674-bccc-5e9730d760cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Tesla"
+				(path "/1363aaf5-2c06-482e-8ef9-b92852a37664"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 131.445 53.975)
+		(size 23.495 22.225)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ce8f16ac-d12b-41a3-a4d4-4dad71d7b7bb")
+		(property "Sheetname" "Stadby_power"
+			(at 131.445 53.2634 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Standby_power.kicad_sch"
+			(at 131.445 71.0696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN_DC_HOT_M" input
+			(at 131.445 73.66 180)
+			(uuid "04da1c22-a12b-48ac-b1e6-24da8145659a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN_DC_HOT_P" input
+			(at 131.445 63.5 180)
+			(uuid "33e02869-9efd-4430-8cd2-2f40a34d8556")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_DC_V12_COLD_M" input
+			(at 154.94 59.69 0)
+			(uuid "b6a424ba-5898-42f3-8056-91901b300503")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_DC_V12_COLD_P" input
+			(at 154.94 57.15 0)
+			(uuid "ec538575-9a66-4916-93f2-27dd50a99931")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_DC_V12_HOT_M" input
+			(at 154.94 69.85 0)
+			(uuid "fdd2c730-63b7-4ecf-9a36-ffdf30ec158e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_DC_V12_HOT_P" input
+			(at 154.94 67.31 0)
+			(uuid "2b1e92d6-288b-48c2-9d1b-6cfcbac8dfd6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Tesla"
+				(path "/1363aaf5-2c06-482e-8ef9-b92852a37664"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

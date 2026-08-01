@@ -1,0 +1,111 @@
+(footprint "apw3 полумост радиатор"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -15.75 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "210ab1c0-86ab-46b1-bb83-927ae5316add")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "apw3 полумост радиатор"
+		(at 0 -14.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "54145e63-5a15-4927-8df1-fe0971c31e58")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8c459da3-959e-4295-b548-06a763a3540f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d5de3670-4d7c-409d-bb8c-b0fc37298616")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -44.5 -2.5)
+		(end 44.5 2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "42940967-40e9-4154-b71e-df84abc95d92")
+	)
+	(fp_rect
+		(start -44.75 -2.75)
+		(end 44.75 2.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "0a0f9a86-b5d4-4f8f-afa5-ae30b9ac346b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -12.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7468d629-dd70-4224-b852-1610b1c9011f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 17.5 0)
+		(size 3 3)
+		(drill 3)
+		(layers "*.Mask")
+		(uuid "d56f78f6-f21d-4053-915a-bc26b30d7f9a")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/uki/Documents/KiCad/10.0/3dmodels/Радиатор apw3.step"
+		(offset
+			(xyz 19.52 -2.5 -0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)

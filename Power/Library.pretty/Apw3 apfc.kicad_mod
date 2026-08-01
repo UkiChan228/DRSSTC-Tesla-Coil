@@ -1,0 +1,111 @@
+(footprint "Apw3 apfc"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -13.75 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d1762fbb-488b-40a3-b7db-a2996b588d78")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Радиатор apw3 apfc"
+		(at 0 -12.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2d5e9db4-68c5-4509-928b-49d4029e0a54")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8be9903e-e7c2-458b-bd12-8d17f5723a8f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6f4cde7c-26f2-4751-9cf9-b49e3e1bf846")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -33.5 -5)
+		(end 33.5 5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "0520095f-f30a-48c4-a476-0104e433a6e1")
+	)
+	(fp_rect
+		(start -34 -5.5)
+		(end 34 5.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a52eb505-0ecc-4735-9e41-dae72f4ff2cb")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -10.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "669a2ad1-394a-4458-ba62-5d6bdcde8097")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 24.5 0)
+		(size 3 3)
+		(drill 3)
+		(layers "*.Mask")
+		(uuid "d533299b-0170-464d-90d2-f6404180911b")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/uki/Documents/KiCad/10.0/3dmodels/apfc радиатор.step"
+		(offset
+			(xyz 1.56 -1.4 23.5)
+		)
+		(scale
+			(xyz 0.9 0.9 0.9)
+		)
+		(rotate
+			(xyz 90 -0 180)
+		)
+	)
+)
